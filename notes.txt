@@ -1,0 +1,4 @@
+compliant_finger_4: too stiff as predicted by the simulations
+compliant_finger_5: good stiffness but since the holes are too central, pulling down the string does not actuate that well
+		    holes for hex nuts are too small and need to be enlarged by 0.2 - 0.3mm to 6.2mm
+compliant_finger_7: actuation works well, however hex nut hole is too big so that the nut falls through when being pulled 

@@ -1,0 +1,13 @@
+repositories:
+  DynamixelSDK:
+    type: git
+    url: https://github.com/ROBOTIS-GIT/DynamixelSDK.git
+    version: main
+  dynamixel-port:
+    type: git
+    url: git@gitlab.bht-berlin.de:siro/teaching/dynamixel-port.git
+    version: main
+  linear-interpolation:
+    type: git
+    url: git@gitlab.bht-berlin.de:siro/teaching/linear-interpolation.git
+    version: main
